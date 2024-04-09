@@ -1,5 +1,4 @@
-begin = '10000'
-interest = '7 percent_annualy'
-finish = '10700'
-
+begin = 10000
+interest = 1.07
+finish = begin * interest
 print(finish)
