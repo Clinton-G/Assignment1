@@ -1,0 +1,7 @@
+milk = 1.50
+bread = 2
+eggs = 3
+
+total = ('milk', + 'bread', + 'eggs')
+
+print(total)
